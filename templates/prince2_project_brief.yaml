@@ -1,0 +1,17 @@
+# PRINCE2 7th Edition - Project Initiation Brief Template
+ProjectTitle: "Enterprise Multi-Cloud Service Management Migration"
+GovernanceFramework: "PRINCE2-7th-Edition"
+
+BusinessCase:
+  Reasons: "Streamline service management across legacy data centers and AWS/Azure cloud environments."
+  BusinessOptions: ["Do Nothing", "Partial Migration", "Full Hybrid ITIL/PRINCE2 Integration"]
+  ExpectedBenefits: "Reduce high-priority service outages by 35% in 2026."
+
+ProjectScope:
+  InScope: ["Service Desk Integration", "SLA Automation", "Change Enablement Workflow"]
+  OutOfScope: ["Hardware Server Procurement"]
+
+QualityExpectations:
+  AcceptanceCriteria:
+    - "Zero downtime for critical customer payment APIs during cutover"
+    - "100% compliance with ISO/IEC 20000 service standards"
