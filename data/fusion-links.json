@@ -1,0 +1,47 @@
+[
+  {
+    "microsoft": "AZ-802",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "SSM"
+  },
+  {
+    "microsoft": "AZ-140",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "SSM"
+  },
+  {
+    "microsoft": "MS-721",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "PSPO I"
+  },
+  {
+    "microsoft": "AB-650",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "PSPO II"
+  },
+  {
+    "microsoft": "AB-730",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "PSPO I"
+  },
+  {
+    "microsoft": "AB-731",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "PSPO II"
+  },
+  {
+    "microsoft": "AB-900",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "SAFe-Practitioner"
+  },
+  {
+    "microsoft": "AZ-120",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "SAFe-Practitioner"
+  },
+  {
+    "microsoft": "MB-820",
+    "peoplecert": "ITIL-4-FOUNDATION",
+    "scrum": "PSPO I"
+  }
+]
