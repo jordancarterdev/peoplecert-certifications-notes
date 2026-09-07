@@ -1,0 +1,29 @@
+service_model:
+  objective: "Deliver reliable digital services through incremental product delivery"
+  workflow:
+    - discovery
+    - backlog
+    - sprint
+    - engineering
+    - testing
+    - release
+    - operation
+    - improvement
+
+itil:
+  practices:
+    - incident_management
+    - change_enablement
+    - service_configuration
+    - continual_improvement
+
+scrum:
+  artifacts:
+    - product_goal
+    - product_backlog
+    - increment
+  events:
+    - sprint_planning
+    - daily_scrum
+    - sprint_review
+    - sprint_retrospective

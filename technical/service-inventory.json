@@ -1,0 +1,25 @@
+{
+  "services": [
+    {
+      "name": "Hybrid Infrastructure",
+      "owner": "Platform Team",
+      "criticality": "High",
+      "microsoft_area": "Azure / Windows Server",
+      "itil_practice": "Service Configuration"
+    },
+    {
+      "name": "Collaboration Platform",
+      "owner": "Collaboration Team",
+      "criticality": "High",
+      "microsoft_area": "Microsoft Teams",
+      "itil_practice": "Incident Management"
+    },
+    {
+      "name": "Business Applications",
+      "owner": "Business Apps",
+      "criticality": "Medium",
+      "microsoft_area": "Business Solutions",
+      "itil_practice": "Continual Improvement"
+    }
+  ]
+}
