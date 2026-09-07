@@ -1,0 +1,14 @@
+{
+  "repository": "Microsoft-PeopleCert-Scrum-Fusion",
+  "year": 2026,
+  "certification_records": 14,
+  "external_links_preserved": true,
+  "technical_formats": [
+    "py",
+    "json",
+    "yaml",
+    "ps1",
+    "md"
+  ],
+  "github_actions": true
+}
