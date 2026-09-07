@@ -1,0 +1,100 @@
+[
+  {
+    "track": "PeopleCert / ITIL",
+    "code": "ITIL-4-FOUNDATION",
+    "title": "ITIL 4 Foundation",
+    "official_url": "https://www.peoplecert.org/browse-certifications/it-governance-and-service-management/itil-1",
+    "external_url": "https://telegra.ph/Is-ITIL-4-Foundation-Worth-It-in-2026-Market-Value-Trends-and-Career-Impact-08-21"
+  },
+  {
+    "track": "Scrum / Product Ownership",
+    "code": "PSPO I",
+    "title": "Professional Scrum Product Owner I",
+    "official_url": "https://www.scrum.org/professional-scrum-product-owner-certifications/professional-scrum-product-owner-i-certification",
+    "external_url": "https://rentry.co/scrum-org-PSPO-I-exam-guide-2026"
+  },
+  {
+    "track": "Scrum / Product Ownership",
+    "code": "PSPO II",
+    "title": "Professional Scrum Product Owner II",
+    "official_url": "https://www.scrum.org/professional-scrum-product-owner-certifications/professional-scrum-product-owner-ii-certification",
+    "external_url": "https://rentry.co/scrum-org-PSPO-II-exam-guide-2026"
+  },
+  {
+    "track": "Agile / Scaled Agile",
+    "code": "SSM",
+    "title": "SAFe Scrum Master",
+    "official_url": "https://scaledagile.com/certification/scrum-master/",
+    "external_url": "https://rentry.co/scaled-agile-SSM-exam-guide-2026"
+  },
+  {
+    "track": "Agile / Scaled Agile",
+    "code": "SAFe-Practitioner",
+    "title": "SAFe Practitioner",
+    "official_url": "https://scaledagile.com/certification/",
+    "external_url": "https://rentry.co/scaled-agile-safe-practitioner-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "AB-650",
+    "title": "Microsoft AB-650",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/",
+    "external_url": "https://rentry.co/microsoft-ab-650-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "AB-730",
+    "title": "Microsoft AB-730",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/",
+    "external_url": "https://rentry.co/microsoft-ab-730-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "AB-731",
+    "title": "Microsoft AB-731",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/",
+    "external_url": "https://rentry.co/microsoft-ab-731-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "AB-900",
+    "title": "Microsoft AB-900",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/",
+    "external_url": "https://rentry.co/microsoft-ab-900-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "AZ-120",
+    "title": "Planning and Administering Azure for SAP Workloads",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-120/",
+    "external_url": "https://rentry.co/microsoft-azure-az-120-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "AZ-140",
+    "title": "Configuring and Operating Microsoft Azure Virtual Desktop",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-140/",
+    "external_url": "https://rentry.co/microsoft-azure-az-140-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "AZ-802",
+    "title": "Windows Server Hybrid Administrator",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/az-802/",
+    "external_url": "https://rentry.co/microsoft-az-802-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "MB-820",
+    "title": "Microsoft MB-820",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/",
+    "external_url": "https://rentry.co/microsoft-az-802-windows-server-exam-guide-2026"
+  },
+  {
+    "track": "Microsoft",
+    "code": "MS-721",
+    "title": "Collaboration Communications Systems Engineer",
+    "official_url": "https://learn.microsoft.com/en-us/credentials/certifications/exams/ms-721/",
+    "external_url": "https://rentry.co/microsoft-ms-721-exam-guide-2026"
+  }
+]
